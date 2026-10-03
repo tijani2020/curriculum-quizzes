@@ -1,4 +1,16 @@
 {
-  "updated": "2026-10-03",
-  "quizzes": []
+ "updated": "2026-10-03",
+ "quizzes": [
+  {
+   "name": "Les mélanges",
+   "file": "quizzes/1apic-mat-u4--les-m-langes.json",
+   "questions": 5,
+   "audio": true,
+   "images": 5,
+   "kb": 303,
+   "updated": "2026-10-03",
+   "unit": "1apic-mat-u4",
+   "unitPath": "1ère année collège · La matière et l'environnement · Les mélanges"
+  }
+ ]
 }
