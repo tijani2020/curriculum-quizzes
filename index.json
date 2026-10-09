@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-03",
+ "updated": "2026-10-09",
  "quizzes": [
   {
    "name": "Les mélanges",
@@ -11,6 +11,17 @@
    "updated": "2026-10-03",
    "unit": "1apic-mat-u4",
    "unitPath": "1ère année collège · La matière et l'environnement · Les mélanges"
+  },
+  {
+   "name": "أمثلة لبعض المواد المستعملة في حياتنا اليومية",
+   "file": "quizzes/3apic-mat-u1--1ca1eme.json",
+   "questions": 5,
+   "audio": true,
+   "images": 5,
+   "kb": 418,
+   "updated": "2026-10-09",
+   "unit": "3apic-mat-u1",
+   "unitPath": "السنة الثالثة إعدادي · المواد · أمثلة لبعض المواد المستعملة في حياتنا اليومية"
   }
  ]
 }
