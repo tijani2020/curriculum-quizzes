@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-09",
+ "updated": "2026-11-06",
  "quizzes": [
   {
    "name": "Les mélanges",
@@ -22,6 +22,17 @@
    "updated": "2026-10-09",
    "unit": "3apic-mat-u1",
    "unitPath": "السنة الثالثة إعدادي · المواد · أمثلة لبعض المواد المستعملة في حياتنا اليومية"
+  },
+  {
+   "name": "المواد والكهرباء",
+   "file": "quizzes/3apic-mat-u2--yjt6pu.json",
+   "questions": 5,
+   "audio": true,
+   "images": 2,
+   "kb": 290,
+   "updated": "2026-11-06",
+   "unit": "3apic-mat-u2",
+   "unitPath": "السنة الثالثة إعدادي · المواد · المواد والكهرباء"
   }
  ]
 }
