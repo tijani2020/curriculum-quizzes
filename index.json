@@ -13,6 +13,17 @@
    "unitPath": "1ère année collège · La matière et l'environnement · Les mélanges"
   },
   {
+   "name": "L'air qui nous entoure",
+   "file": "quizzes/2apic-mat-u1--l-air-qui-nous-entoure.json",
+   "questions": 10,
+   "audio": true,
+   "images": 0,
+   "kb": 231,
+   "updated": "2026-11-06",
+   "unit": "2apic-mat-u1",
+   "unitPath": "2ème année collège · La matière et l'environnement · L'air qui nous entoure"
+  },
+  {
    "name": "أمثلة لبعض المواد المستعملة في حياتنا اليومية",
    "file": "quizzes/3apic-mat-u1--1ca1eme.json",
    "questions": 5,
