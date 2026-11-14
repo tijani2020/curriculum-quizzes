@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06",
+ "updated": "2026-11-14",
  "quizzes": [
   {
    "name": "Les mélanges",
@@ -22,6 +22,17 @@
    "updated": "2026-11-06",
    "unit": "2apic-mat-u1",
    "unitPath": "2ème année collège · La matière et l'environnement · L'air qui nous entoure"
+  },
+  {
+   "name": "3AC · Leçon 1 · Exemples de matériaux utilisés dans la vie quotidienne (FR)",
+   "file": "quizzes/3apic-mat-u1--3ac-le-on-1-exemples-de-mat-riaux-utilis.json",
+   "questions": 20,
+   "audio": true,
+   "images": 20,
+   "kb": 687,
+   "updated": "2026-11-14",
+   "unit": "3apic-mat-u1",
+   "unitPath": "3ème année collège · Les matériaux · Exemples de matériaux utilisés dans la vie quotidienne"
   },
   {
    "name": "أمثلة لبعض المواد المستعملة في حياتنا اليومية",
