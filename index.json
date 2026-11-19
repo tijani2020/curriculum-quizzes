@@ -1,4 +1,204 @@
 {
  "updated": "2026-11-19",
- "quizzes": []
+ "quizzes": [
+  {
+   "name": "Leçon 1 · L'eau (FR)",
+   "file": "quizzes/1apic-mat-u1--le-on-1-l-eau-fr.json",
+   "questions": 63,
+   "audio": true,
+   "images": 63,
+   "kb": 2888,
+   "updated": "2026-11-19",
+   "objectives": {
+    "O1": 13,
+    "O2": 8,
+    "O3": 12,
+    "O4": 19,
+    "O5": 11
+   },
+   "levels": {
+    "know": 32,
+    "understand": 18,
+    "apply": 13
+   },
+   "kind": "bank",
+   "unit": "1apic-mat-u1",
+   "unitPath": "1ère année collège · La matière et l'environnement · L'eau"
+  },
+  {
+   "name": "Leçon 2 · Les trois états de la matière (FR)",
+   "file": "quizzes/1apic-mat-u2--le-on-2-les-trois-tats-de-la-mati-re-fr.json",
+   "questions": 33,
+   "audio": true,
+   "images": 33,
+   "kb": 1314,
+   "updated": "2026-11-19",
+   "objectives": {
+    "O1": 12,
+    "O2": 11,
+    "O11": 10
+   },
+   "levels": {
+    "know": 13,
+    "understand": 16,
+    "apply": 4
+   },
+   "kind": "bank",
+   "unit": "1apic-mat-u2",
+   "unitPath": "1ère année collège · La matière et l'environnement · Les trois états de la matière"
+  },
+  {
+   "name": "Leçon 3 · Volume des liquides et des solides (FR)",
+   "file": "quizzes/1apic-mat-u2--le-on-3-volume-des-liquides-et-des-solid.json",
+   "questions": 29,
+   "audio": true,
+   "images": 29,
+   "kb": 1194,
+   "updated": "2026-11-19",
+   "objectives": {
+    "O3": 14,
+    "O4": 15
+   },
+   "levels": {
+    "know": 13,
+    "understand": 6,
+    "apply": 10
+   },
+   "kind": "bank",
+   "unit": "1apic-mat-u2",
+   "unitPath": "1ère année collège · La matière et l'environnement · Les trois états de la matière"
+  },
+  {
+   "name": "Leçon 4 · Masse des solides et des liquides (FR)",
+   "file": "quizzes/1apic-mat-u2--le-on-4-masse-des-solides-et-des-liquide.json",
+   "questions": 18,
+   "audio": true,
+   "images": 18,
+   "kb": 779,
+   "updated": "2026-11-19",
+   "objectives": {
+    "O5": 18
+   },
+   "levels": {
+    "know": 7,
+    "apply": 7,
+    "understand": 4
+   },
+   "kind": "bank",
+   "unit": "1apic-mat-u2",
+   "unitPath": "1ère année collège · La matière et l'environnement · Les trois états de la matière"
+  },
+  {
+   "name": "Leçon 5 · La masse volumique (FR)",
+   "file": "quizzes/1apic-mat-u2--le-on-5-la-masse-volumique-fr.json",
+   "questions": 20,
+   "audio": true,
+   "images": 20,
+   "kb": 853,
+   "updated": "2026-11-19",
+   "objectives": {
+    "O6": 11,
+    "O7": 9
+   },
+   "levels": {
+    "know": 7,
+    "understand": 5,
+    "apply": 8
+   },
+   "kind": "bank",
+   "unit": "1apic-mat-u2",
+   "unitPath": "1ère année collège · La matière et l'environnement · Les trois états de la matière"
+  },
+  {
+   "name": "Leçon 6 · La pression et la pression atmosphérique (FR)",
+   "file": "quizzes/1apic-mat-u2--le-on-6-la-pression-et-la-pression-atmos.json",
+   "questions": 38,
+   "audio": true,
+   "images": 38,
+   "kb": 1684,
+   "updated": "2026-11-19",
+   "objectives": {
+    "O8": 9,
+    "O9": 11,
+    "O10": 9,
+    "O12": 9
+   },
+   "levels": {
+    "know": 22,
+    "understand": 10,
+    "apply": 6
+   },
+   "kind": "bank",
+   "unit": "1apic-mat-u2",
+   "unitPath": "1ère année collège · La matière et l'environnement · Les trois états de la matière"
+  },
+  {
+   "name": "Leçon 7 · Le modèle particulaire de la matière (FR)",
+   "file": "quizzes/1apic-mat-u2--le-on-7-le-mod-le-particulaire-de-la-mat.json",
+   "questions": 26,
+   "audio": true,
+   "images": 26,
+   "kb": 1430,
+   "updated": "2026-11-19",
+   "objectives": {
+    "O13": 12,
+    "O14": 14
+   },
+   "levels": {
+    "know": 11,
+    "understand": 12,
+    "apply": 3
+   },
+   "kind": "bank",
+   "unit": "1apic-mat-u2",
+   "unitPath": "1ère année collège · La matière et l'environnement · Les trois états de la matière"
+  },
+  {
+   "name": "3AC · Leçon 1 · Exemples de matériaux utilisés dans la vie quotidienne (FR)",
+   "file": "quizzes/3apic-mat-u1--3ac-le-on-1-exemples-de-mat-riaux-utilis.json",
+   "questions": 52,
+   "audio": true,
+   "images": 52,
+   "kb": 1942,
+   "updated": "2026-11-19",
+   "objectives": {
+    "O1": 12,
+    "O2": 14,
+    "O3": 15,
+    "O4": 11
+   },
+   "levels": {
+    "understand": 15,
+    "know": 24,
+    "apply": 13
+   },
+   "kind": "bank",
+   "unit": "3apic-mat-u1",
+   "unitPath": "3ème année collège · Les matériaux · Exemples de matériaux utilisés dans la vie quotidienne"
+  },
+  {
+   "name": "3AC · Leçon 2 · Les matériaux et l'électricité (FR)",
+   "file": "quizzes/3apic-mat-u2--3ac-le-on-2-les-mat-riaux-et-l-lectricit.json",
+   "questions": 45,
+   "audio": true,
+   "images": 45,
+   "kb": 1715,
+   "updated": "2026-11-19",
+   "objectives": {
+    "O1": 9,
+    "O2": 9,
+    "O3": 7,
+    "O4": 10,
+    "O5": 10
+   },
+   "levels": {
+    "know": 24,
+    "apply": 13,
+    "understand": 8
+   },
+   "kind": "bank",
+   "unit": "3apic-mat-u2",
+   "unitPath": "3ème année collège · Les matériaux · Les matériaux et l'électricité"
+  }
+ ]
 }
