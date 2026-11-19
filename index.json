@@ -26,6 +26,29 @@
    "unitPath": "1ère année collège · La matière et l'environnement · L'eau"
   },
   {
+   "name": "Révision · Leçon 1",
+   "file": "quizzes/1apic-mat-u1--r-vision-le-on-1.json",
+   "questions": 10,
+   "audio": true,
+   "images": 10,
+   "kb": 517,
+   "updated": "2026-11-19",
+   "objectives": {
+    "O3": 3,
+    "O4": 5,
+    "O5": 1,
+    "O2": 1
+   },
+   "levels": {
+    "know": 5,
+    "understand": 4,
+    "apply": 1
+   },
+   "kind": "quiz",
+   "unit": "1apic-mat-u1",
+   "unitPath": "1ère année collège · La matière et l'environnement · L'eau"
+  },
+  {
    "name": "Leçon 2 · Les trois états de la matière (FR)",
    "file": "quizzes/1apic-mat-u2--le-on-2-les-trois-tats-de-la-mati-re-fr.json",
    "questions": 33,
