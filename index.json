@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14",
+ "updated": "2026-11-19",
  "quizzes": [
   {
    "name": "Les mélanges",
@@ -11,6 +11,25 @@
    "updated": "2026-10-03",
    "unit": "1apic-mat-u4",
    "unitPath": "1ère année collège · La matière et l'environnement · Les mélanges"
+  },
+  {
+   "name": "Leçon 4 · Masse des solides et des liquides (FR)",
+   "file": "quizzes/1apic-mat-u2--le-on-4-masse-des-solides-et-des-liquide.json",
+   "questions": 8,
+   "audio": true,
+   "images": 8,
+   "kb": 322,
+   "updated": "2026-11-19",
+   "objectives": {
+    "O5": 8
+   },
+   "levels": {
+    "know": 5,
+    "apply": 2,
+    "understand": 1
+   },
+   "unit": "1apic-mat-u2",
+   "unitPath": "1ère année collège · La matière et l'environnement · Les trois états de la matière"
   },
   {
    "name": "L'air qui nous entoure",
