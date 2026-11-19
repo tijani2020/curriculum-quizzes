@@ -28,21 +28,16 @@
   {
    "name": "Révision · Leçon 1",
    "file": "quizzes/1apic-mat-u1--r-vision-le-on-1.json",
-   "questions": 10,
+   "questions": 1,
    "audio": true,
-   "images": 10,
-   "kb": 517,
+   "images": 1,
+   "kb": 44,
    "updated": "2026-11-19",
    "objectives": {
-    "O3": 3,
-    "O4": 5,
-    "O5": 1,
-    "O2": 1
+    "O3": 1
    },
    "levels": {
-    "know": 5,
-    "understand": 4,
-    "apply": 1
+    "know": 1
    },
    "kind": "quiz",
    "unit": "1apic-mat-u1",
