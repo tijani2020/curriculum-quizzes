@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19",
+ "updated": "2026-11-21",
  "quizzes": [
   {
    "name": "Leçon 1 · L'eau (FR)",
@@ -217,6 +217,29 @@
    "kind": "bank",
    "unit": "3apic-mat-u2",
    "unitPath": "3ème année collège · Les matériaux · Les matériaux et l'électricité"
+  },
+  {
+   "name": "3AC · Leçon 3 · Oxydation de quelques métaux dans l'air (FR)",
+   "file": "quizzes/3apic-mat-u3--3ac-le-on-3-oxydation-de-quelques-m-taux.json",
+   "questions": 57,
+   "audio": true,
+   "images": 57,
+   "kb": 2306,
+   "updated": "2026-11-21",
+   "objectives": {
+    "O1": 14,
+    "O2": 15,
+    "O3": 12,
+    "O4": 16
+   },
+   "levels": {
+    "know": 27,
+    "understand": 17,
+    "apply": 13
+   },
+   "kind": "bank",
+   "unit": "3apic-mat-u3",
+   "unitPath": "3ème année collège · Les matériaux · Réactions de quelques matériaux avec l'air"
   }
  ]
 }
