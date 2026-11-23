@@ -200,6 +200,26 @@
    "unitPath": "1ère année collège · La matière et l'environnement · Les trois états de la matière"
   },
   {
+   "name": "Masse des solides et des liquides",
+   "file": "quizzes/1apic-mat-u2--masse-des-solides-et-des-liquides.json",
+   "questions": 10,
+   "audio": true,
+   "images": 10,
+   "kb": 407,
+   "updated": "2026-11-23",
+   "objectives": {
+    "O5": 10
+   },
+   "levels": {
+    "know": 5,
+    "understand": 3,
+    "apply": 2
+   },
+   "kind": "quiz",
+   "unit": "1apic-mat-u2",
+   "unitPath": "1ère année collège · La matière et l'environnement · Les trois états de la matière"
+  },
+  {
    "name": "Révision · Leçon 2",
    "file": "quizzes/1apic-mat-u2--r-vision-le-on-2.json",
    "questions": 10,
@@ -215,27 +235,6 @@
    "levels": {
     "know": 8,
     "understand": 2
-   },
-   "kind": "quiz",
-   "unit": "1apic-mat-u2",
-   "unitPath": "1ère année collège · La matière et l'environnement · Les trois états de la matière"
-  },
-  {
-   "name": "Volume des liquides et des solides",
-   "file": "quizzes/1apic-mat-u2--volume-des-liquides-et-des-solides.json",
-   "questions": 10,
-   "audio": true,
-   "images": 10,
-   "kb": 378,
-   "updated": "2026-11-23",
-   "objectives": {
-    "O3": 4,
-    "O4": 6
-   },
-   "levels": {
-    "know": 7,
-    "understand": 1,
-    "apply": 2
    },
    "kind": "quiz",
    "unit": "1apic-mat-u2",
