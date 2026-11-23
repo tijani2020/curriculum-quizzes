@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21",
+ "updated": "2026-11-23",
  "quizzes": [
   {
    "name": "Leçon 1 · L'eau (FR)",
@@ -28,16 +28,21 @@
   {
    "name": "Révision · Leçon 1",
    "file": "quizzes/1apic-mat-u1--r-vision-le-on-1.json",
-   "questions": 1,
+   "questions": 10,
    "audio": true,
-   "images": 1,
-   "kb": 44,
-   "updated": "2026-11-19",
+   "images": 10,
+   "kb": 404,
+   "updated": "2026-11-23",
    "objectives": {
-    "O3": 1
+    "O1": 3,
+    "O2": 2,
+    "O3": 3,
+    "O4": 2
    },
    "levels": {
-    "know": 1
+    "know": 5,
+    "understand": 4,
+    "apply": 1
    },
    "kind": "quiz",
    "unit": "1apic-mat-u1",
