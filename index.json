@@ -2,6 +2,29 @@
  "updated": "2026-11-23",
  "quizzes": [
   {
+   "name": "L'eau",
+   "file": "quizzes/1apic-mat-u1--l-eau.json",
+   "questions": 10,
+   "audio": true,
+   "images": 10,
+   "kb": 404,
+   "updated": "2026-11-23",
+   "objectives": {
+    "O1": 3,
+    "O2": 2,
+    "O3": 3,
+    "O4": 2
+   },
+   "levels": {
+    "know": 5,
+    "understand": 4,
+    "apply": 1
+   },
+   "kind": "quiz",
+   "unit": "1apic-mat-u1",
+   "unitPath": "1ère année collège · La matière et l'environnement · L'eau"
+  },
+  {
    "name": "Leçon 1 · L'eau (FR)",
    "file": "quizzes/1apic-mat-u1--le-on-1-l-eau-fr.json",
    "questions": 63,
@@ -173,27 +196,6 @@
     "apply": 3
    },
    "kind": "bank",
-   "unit": "1apic-mat-u2",
-   "unitPath": "1ère année collège · La matière et l'environnement · Les trois états de la matière"
-  },
-  {
-   "name": "Les trois états de la matière",
-   "file": "quizzes/1apic-mat-u2--les-trois-tats-de-la-mati-re.json",
-   "questions": 10,
-   "audio": true,
-   "images": 10,
-   "kb": 364,
-   "updated": "2026-11-23",
-   "objectives": {
-    "O1": 7,
-    "O2": 1,
-    "O11": 2
-   },
-   "levels": {
-    "know": 8,
-    "understand": 2
-   },
-   "kind": "quiz",
    "unit": "1apic-mat-u2",
    "unitPath": "1ère année collège · La matière et l'environnement · Les trois états de la matière"
   },
